@@ -37,7 +37,7 @@ pageBody.appendChild(teenSpiritP);
 
 /**
  * * for each puzzle find the movie or song title:
- * * must use split, join, toLowerCase, toUpperCase, template literals, let based variable creation
+ * * must use split, toLowerCase, toUpperCase, template literals, let based variable creation
  * * use at least 2 of the following
  * *    -accessing characters with [] array coordinates
  * *    -slice(start, end)
