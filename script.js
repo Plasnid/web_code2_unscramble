@@ -47,6 +47,8 @@ pageBody.appendChild(teenSpiritP);
  * *    
  * * Teams of 3!
  * * All changes to the strings must be done with code!  Must show all work!  Team that solves the most gets a prize!  Use Dom Manipulation to put the unscrabled titles on screen and in your console log in a p tag.
+ * 
+ * *  Each team must unscramble a minimum of 4 puzzles.
 */
 //* word puzzles - Famous Fictional Characters
 
